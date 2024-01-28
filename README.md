@@ -4,10 +4,6 @@
 <a href="https://github.com/souvikbachhar/souvikbachhar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikbachhar&hide=tex&title_color=f45fff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
-<a href="https://github.com/Kaushikm27/Kaushikm27">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikbachhar&show_icons=true&line_height=27&count_private=true&title_color=f45fff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Souvik's GitHub Stats" />
-</a>
-
 
 <!--
 **souvikbachhar/souvikbachhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
